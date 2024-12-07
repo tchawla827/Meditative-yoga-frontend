@@ -11,7 +11,7 @@ This project is a **front-end demonstration** of a meditative website, designed 
 - [Technologies Used](#technologies-used)
 - [Screenshots](#screenshots)
 - [About the Developer](#about-the-developer)
-- [License](#license)
+
 
 ---
 
@@ -71,7 +71,7 @@ Meditative-Demo-Website/
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/tchawla827/Meditative-yoga-frontend
    ```
 2. **Open Locally**:
    Navigate to the project folder and open `index.html` in any modern web browser.
