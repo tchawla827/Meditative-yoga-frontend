@@ -100,7 +100,7 @@ Meditative-Demo-Website/
 ### Class Schedule
 ![Schedule Screenshot](images/ss4.png)
 
-*Note: Add more screenshots for each page if required.*
+
 
 ---
 
@@ -109,11 +109,8 @@ Meditative-Demo-Website/
 This project was created by **Tavish Chawla**, a **B.Tech student at IIIT Allahabad**, as a demonstration of front-end development skills. The goal was to create a visually appealing and responsive website.
 
 Feel free to reach out for collaborations or feedback:
-- **GitHub**: [Tavish's GitHub Profile](https://github.com/yourusername)
-- **Email**: tavish@example.com
+- **GitHub**: [Tavish's GitHub Profile](https://github.com/tchawla827)
+- **Email**: tchawla827@gmail.com
 
 ---
 
-## License
-
-This project is licensed under the **MIT License**. You are free to use, modify, and distribute this project for educational or personal purposes. For commercial use, please contact the developer.
